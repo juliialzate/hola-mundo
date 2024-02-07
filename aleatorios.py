@@ -1,6 +1,7 @@
 from random import randint
 n1 = randint (1,10)
 n2 = randint (1,10)
+print (n1,n2)
 if n1>n2: 
     print (n1, "es mayor") 
 elif n2>n1:
